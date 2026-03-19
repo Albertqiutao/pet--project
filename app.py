@@ -325,3 +325,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 # 故意加的演示错误
 def bad() print('error')
+
+# 故意加的演示错误
+def bad() print('error')
