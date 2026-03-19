@@ -357,7 +357,7 @@ st.markdown(
 
 
 
-def bad():
+def bad()
     print('error')
 
 
