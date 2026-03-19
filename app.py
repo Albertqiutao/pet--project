@@ -325,3 +325,4 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+echo "def bad() print('error')" >> app.py
