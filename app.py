@@ -323,3 +323,5 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
+# 故意加的演示错误
+def bad() print('error')
